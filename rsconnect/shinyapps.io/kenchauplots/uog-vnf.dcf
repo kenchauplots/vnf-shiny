@@ -1,0 +1,12 @@
+name: uog-vnf
+title: uog-vnf
+username:
+account: kenchauplots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3890310
+bundleId: 4469756
+url: https://kenchauplots.shinyapps.io/uog-vnf/
+when: 1618395521.29531
+asMultiple: FALSE
+asStatic: FALSE
